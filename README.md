@@ -7,7 +7,7 @@ ___
 <div>
 <h3>About Me:</h3>
 
-- 🌱 I’m currently working in a team for the Final Project at DCI , a PetAdoption Webapp! :3
+- 🌱 I’m currently looking for a position as a Junior Front End Webdeveloper :)
 - 📫 How to reach me: [cojocaru.sorina86@gmail.com](mailto:cojocaru.sorina86@gmail.com)
 - 😄 Pronouns: her/she
 - ⚡ My Interests: 
