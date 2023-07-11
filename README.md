@@ -11,7 +11,7 @@ ___
 - 📫 How to reach me: [cojocaru.sorina86@gmail.com](mailto:cojocaru.sorina86@gmail.com)
 - 😄 Pronouns: her/she
 - ⚡ My Interests: 
-    Juggling, BoardGames, learning to play guitar, 
+    Juggling, BoardGames, learning to play guitar :guitar:
   </div>
     
 ___
